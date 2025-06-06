@@ -137,19 +137,19 @@ class ShowContactsWidget extends StatelessWidget {
       children: [
         InkWell(
           onTap: () {
-            _openOtherWebApp("mailto:eclesiaste884@gmail.com");
+            _openOtherWebApp("mailto:eclesiastevaz884@gmail.com");
           },
           child: Icon(FontAwesomeIcons.google),
         ),
         InkWell(
           onTap: () {
-            _openOtherWebApp("https://ao.linkedin.com/eclesiaste-vaz");
+            _openOtherWebApp("https://www.linkedin.com/in/eclesiaste-vaz/");
           },
           child: Icon(FontAwesomeIcons.linkedinIn),
         ),
         InkWell(
           onTap: () {
-            _openOtherWebApp("https://facebook.com/eclesio.vaz");
+            _openOtherWebApp("https://www.facebook.com/profile.php?id=100084698768943");
           },
           child: Icon(FontAwesomeIcons.facebook),
         ),
