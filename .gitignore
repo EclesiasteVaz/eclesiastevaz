@@ -5,6 +5,12 @@
 *.swp
 .DS_Store
 .atom/
+build/.last_build_id
+build/cache.dill.track.dill
+build/native_assets
+build/linux
+build/flutter_assets
+build/629c534a14b7c38cdd9c3c2f42324eba
 .build/
 .buildlog/
 .history
@@ -31,7 +37,6 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-/build/
 
 # Symbolication related
 app.*.symbols
