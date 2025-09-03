@@ -31,7 +31,7 @@ Minha jornada é guiada pelo propósito de criar soluções que unem **qualidade
 - 🏗️ Estruturação de projetos com **Clean Architecture, BLoC e SOLID**  
 - 🔥 Backend escalável com **Laravel** e APIs REST  
 - 🧪 Criação de soluções confiáveis aplicando **TDD e testes automatizados**  
-- 🌐 Exploração de **microsserviços** e boas práticas de software  
+- 🌐 Exploração de boas práticas de software  
 
 ---
 
