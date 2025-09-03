@@ -1,12 +1,11 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0D47A1,100:1976D2&height=200&section=header&text=Eclesiaste%20Vaz&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
 
-<p align="center">
-  <em>"Transformando ideias em experiências digitais que inspiram e conectam pessoas."</em>
-</p>
-
+<!-- Banner Profissional -->
+<div align="center" style="background: linear-gradient(90deg, #0D47A1, #1976D2); padding: 40px 0; border-radius: 15px;">
+  <h1 style="color: white; font-size: 48px; margin: 0;">Eclesiaste Vaz</h1>
+  <p style="color: #E0F7FA; font-size: 18px; margin-top: 10px; font-style: italic;">
+    Transformando ideias em experiências digitais que inspiram e conectam pessoas.
+  </p>
+</div>
 ---
 
 ## 🚀 Sobre mim
